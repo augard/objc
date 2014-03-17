@@ -20,7 +20,7 @@
 
 
 
-#import <Cocoa/Cocoa.h>
+#import <Foundation/Foundation.h>
 #import <CommonCrypto/CommonCryptor.h>
 
 @interface NSData (AES)
